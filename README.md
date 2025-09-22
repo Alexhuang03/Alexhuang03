@@ -6,7 +6,7 @@ Future Engineer @ ECE Paris
 
 ## About Me
 Hello! I'm *Alex*.  
-I focus on *Data, **artificial intelligence, building innovative solutions and tackling complex challenges.  
+I focus on *Data,* *artificial intelligence*, building innovative solutions and tackling complex challenges.  
 
 ---
 
