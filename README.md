@@ -13,7 +13,7 @@ I focus on *Data,* *artificial intelligence*, building innovative solutions and 
 ## Skills
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,js,react,html,css,php,matlab,linux,vim,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,js,react,html,css,php,matlab,linux,git)](https://skillicons.dev)
 
 ### Tools & Technologies
 
