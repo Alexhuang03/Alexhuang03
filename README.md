@@ -7,7 +7,7 @@ Future Engineer @ ECE Paris
 ## About Me
 Hello! I'm *Alex*.  
 I focus on *Data,* *artificial intelligence*, building innovative solutions and tackling complex challenges.  
-This is my web site : *alexhbh.com*
+This is my web site : (https://alexhbh.com)
 
 ---
 
