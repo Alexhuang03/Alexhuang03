@@ -16,19 +16,19 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** 5th-year Engineering student at **ECE Paris**, specializing in **Data & Artificial Intelligence**.
-- 🔬 **Domains of Interest:** Generative AI / LLMs & RAG, Computer Vision (YOLO, 3D Vision RGB-D), Medical Robotics (ROS2), and Full-Stack Web Development.
-- 💼 **Experience:**
-  - 🤖 **R&D Engineering Intern (Medical Robotics & AI)** @ *Shanghai Rotai Health Tech* (3D Anatomical Mapping, Hybrid LLM/RAG Voice Assistant, Camera Calibration).
-  - 📊 **Data Analyst Assistant Intern** @ *La Poste* (Master Data Management, Data Integrity & Flow Optimization).
-- 🛠️ **Environment:** Daily driver on **Linux (Debian)** & **Windows**.
-- 🌍 **Hobbies:** Travel, Photography, and French Gastronomy / Pastry 🥐.
+-  **Education:** 5th-year Engineering student at **ECE Paris**, specializing in **Data & Artificial Intelligence**.
+-  **Domains of Interest:** Generative AI / LLMs & RAG, Computer Vision (YOLO, 3D Vision RGB-D), Medical Robotics (ROS2), and Full-Stack Web Development.
+-  **Experience:**
+  -  **R&D Engineering Intern (Medical Robotics & AI)** @ *Shanghai Rotai Health Tech* (3D Anatomical Mapping, Hybrid LLM/RAG Voice Assistant, Camera Calibration).
+  -  **Data Analyst Assistant Intern** @ *La Poste* (Master Data Management, Data Integrity & Flow Optimization).
+-  **Environment:** Daily driver on **Linux (Debian)** & **Windows**.
+-  **Hobbies:** Creat web site/app, Travel, Photography, and French Gastronomy / Pastry 🥐.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-#### 💻 Programming Languages
+####  Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,bash,java,php,matlab,html,css" alt="Languages" />
 </p>
@@ -67,7 +67,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📝 ToDoList</h3>
+      <h3 align="center"> ToDoList</h3>
       <p align="center">
         <a href="https://todolist.alexhbh.com">
           <img src="https://img.shields.io/badge/Live_Demo-todolist.alexhbh.com-success?style=flat-square" alt="Demo" />
@@ -80,7 +80,7 @@
       <p><b>Tech:</b> <code>Node.js</code> <code>MongoDB</code> <code>JavaScript</code> <code>HTML5/CSS3</code></p>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 Interactive Portfolio</h3>
+      <h3 align="center"> Interactive Portfolio</h3>
       <p align="center">
         <a href="https://alexhbh.com">
           <img src="https://img.shields.io/badge/Website-alexhbh.com-00D2FF?style=flat-square" alt="Website" />
@@ -94,7 +94,7 @@
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alexhuang03&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Alex's GitHub Stats" width="48%" />
