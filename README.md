@@ -94,19 +94,6 @@
 
 ---
 
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexhuang03&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Alex's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexhuang03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexhuang03&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
-
----
-
 <div align="center">
   <sub>Designed with care by <a href="https://alexhbh.com">Alex HUANG</a> · Feel free to connect! ☕</sub>
 </div>
